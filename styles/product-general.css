@@ -1,0 +1,14 @@
+#product-general {
+  display: flex;
+  width: 84%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#product-general div {
+  width: 50%;
+}
+
+#product-general img {
+  width: 50%;
+}
