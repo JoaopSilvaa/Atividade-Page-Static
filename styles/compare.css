@@ -1,0 +1,40 @@
+#compare h2 {
+  margin-top: 3em;
+  font-size: 2em;
+  border-bottom: 1px solid #C7C7C7;
+  padding-bottom: 0.5em;
+  margin-bottom: 0;
+}
+
+#compare {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#compare table {
+  width: 100%;
+}
+
+#compare table th {
+  border-bottom: 1px solid #000000;
+}
+
+#compare table td {
+  border-bottom: 1px solid #C7C7C7;
+  padding: 2em;
+}
+
+.first-details {
+  font-weight: bold;
+}
+
+.title-details {
+  font-size: 1.5em;
+  padding-bottom: 0.8em;
+  padding-top: 2em;
+}
+
+.selected {
+  background-color: #D9E9F5;
+}
